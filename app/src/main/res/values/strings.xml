@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Drawable Experiments</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+        ut labore et dolore magna aliqua. Mattis pellentesque id nibh tortor. Suspendisse sed nisi lacus sed viverra
+        tellus in. Hac habitasse platea dictumst quisque sagittis purus sit amet volutpat. Cum sociis natoque penatibus
+        et magnis dis. Consectetur libero id faucibus nisl tincidunt. Vivamus arcu felis bibendum ut tristique et.
+        Gravida dictum fusce ut placerat. Erat imperdiet sed euismod nisi. Turpis egestas pretium aenean pharetra magna.
+        Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer. Sit amet consectetur adipiscing elit.
+        Eleifend quam adipiscing vitae proin. Commodo sed egestas egestas fringilla phasellus faucibus. Urna cursus eget
+        nunc scelerisque viverra. Tempus imperdiet nulla malesuada pellentesque elit eget gravida. Elit pellentesque
+        habitant morbi tristique senectus. Nisi vitae suscipit tellus mauris a.
+
+        Nec nam aliquam sem et tortor consequat id porta nibh. Non diam phasellus vestibulum lorem sed risus ultricies
+        tristique nulla. Lobortis mattis aliquam faucibus purus. Volutpat maecenas volutpat blandit aliquam etiam erat
+        velit scelerisque in. Quis eleifend quam adipiscing vitae proin. Semper auctor neque vitae tempus quam.
+        Ullamcorper dignissim cras tincidunt lobortis feugiat. Commodo nulla facilisi nullam vehicula. Consectetur lorem
+        donec massa sapien faucibus. Eros in cursus turpis massa tincidunt dui ut ornare. Mauris nunc congue nisi vitae
+        suscipit tellus mauris a. Nulla porttitor massa id neque aliquam. Sed faucibus turpis in eu mi bibendum neque
+        egestas. Diam in arcu cursus euismod quis viverra. Nulla at volutpat diam ut venenatis tellus in metus
+        vulputate.
+    </string>
+</resources>
